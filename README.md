@@ -6,7 +6,7 @@
 
 <p align="center">
  <br>developer en proceso por Launch X <br>
- <img src="" width="20%"/>
+ <img src="https://github.com/edu18RR/Eduardo-RR/blob/main/cohete.png" width="20%"/>
 <p>
 
 
