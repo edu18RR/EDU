@@ -10,16 +10,6 @@
 <p>
 
 
-'''elixir
- defmodule Hola do
- def mundo do
-      """
- ¡Hola! Gracias por visitar mi perfil. 👋
-      """
- aleta
- aleta
-```
-
 ### Sobre mí
 
   - Estudiante de Lic. en Ingeniería en Desarrollo de Software y Sistemas Computacionales en UNID 💻
