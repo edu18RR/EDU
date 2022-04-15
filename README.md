@@ -6,6 +6,9 @@
 
 <p align="center">
  <br>developer en proceso por Launch X <br>
+ <img src="" width="20%"/>
+<p>
+
 
 '''elixir
  defmodule Hola do
