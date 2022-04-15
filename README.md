@@ -5,7 +5,7 @@
 <h3 align="center"> Estudiante | Trabajador </h3 mexicana 🇲🇽 >
 
 <p align="center">
- <br>developer en proceso por Launch X
+ <br>developer en proceso por Launch X <br>
 
 '''elixir
  defmodule Hola do
