@@ -8,7 +8,7 @@
  <img align="center" src="https://github.com/edu18RR/Eduardo-RR/blob/main/cohete.png" alt="nave" height="30" width="40" /></h5>
 
 
-### Sobre mí
+### Sobre mí:
 
   - Estudiante de Lic. en Ingeniería en Desarrollo de Software y Sistemas Computacionales en UNID 💻
  
