@@ -5,7 +5,7 @@
 <h3 align="center"> Estudiante | Trabajador </h3 mexicana 🇲🇽 >
 
 <p align="center">
- <br>**developer en proceso por Launch X <br>**
+ <br>**developer en proceso por Launch X **<br>
  <img src="https://github.com/edu18RR/Eduardo-RR/blob/main/cohete.png" width="20%"/>
 <p>
 
