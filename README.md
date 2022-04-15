@@ -5,7 +5,7 @@
 <h3 align="center"> Estudiante | Trabajador </h3 mexicana 🇲🇽 >
 
 <p align="center">
- <br>developer en proceso por Launch X <br>
+ <br>**developer en proceso por Launch X <br>**
  <img src="https://github.com/edu18RR/Eduardo-RR/blob/main/cohete.png" width="20%"/>
 <p>
 
@@ -15,4 +15,4 @@
   - Estudiante de Lic. en Ingeniería en Desarrollo de Software y Sistemas Computacionales en UNID 💻
  
 <h3 align="left"> 🤩 Mis tecnologías preferidas: </h3>
-<p align="left"> <img src="https://github.com/edu18RR/Eduardo-RR/blob/main/logo%20git%20icon.png" alt="elixir" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://github.com/edu18RR/Eduardo-RR/blob/main/logo%20git%20icon.png" alt="elixir" width="40" height="40"/> </a> <img src="https://github.com/edu18RR/Eduardo-RR/blob/main/vs.png" alt="erlang" width="40" height="40"/> </a> </p>
